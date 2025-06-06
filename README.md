@@ -10,7 +10,7 @@ Welcome to the support page for the **UrgeShield** app – your habit-tracking a
 - Lost your past logs?
 - Have suggestions or found a bug?
 
-Contact us at: **your.email@example.com**
+Contact us at: **amunim117@gmail.com**
 
 ---
 
@@ -24,4 +24,4 @@ UrgeShield helps you track how long you've resisted a habit or addiction. Simple
 
 If you're experiencing any issues, feel free to reach out:
 
-📧 Email: your.email@example.com  
+📧 Email: amunim117@gmail.com  
